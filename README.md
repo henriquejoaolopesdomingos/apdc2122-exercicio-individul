@@ -1,1 +1,1 @@
-# apdc2122-exercicio-individul
+# apdc2122-exercicio-individual
